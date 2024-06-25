@@ -9,3 +9,10 @@ int main(){
 
 ---
 $\frac{1}{200m} \int_{0}^{t} (1-3x)e^{-3x} \, dx$
+
+
+$\sqrt{3x-1}+(1+x)^2$
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+
