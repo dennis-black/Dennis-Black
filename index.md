@@ -5,5 +5,5 @@
 <!--
 [Test page in obsidian](obsidian://open?vault=blackcatStudio&file=DE_firecracker%2Fnote%2Ftest)  -->
 
-[Test page in github page](/note/test)
+[Test page in github page](myself/note/test)
 
